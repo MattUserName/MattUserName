@@ -4,7 +4,7 @@ I'm a Cybersecurity degree student with a genuine interest in how systems break 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matthew-petley)   
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mt.petley@gmail.com)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mt.petley@gmail.com)  
 Email: mt.petley@gmail.com
 
 # 💻 Tech Stack:
