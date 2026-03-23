@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Cybersecurity degree student with a genuine interest in how systems break — and how to stop them. I build practical tools to sharpen my skills, from a Python log analyser that detects suspicious login patterns and brute-force attempts, to a JavaScript grade tracker built for UK university students. I'm comfortable working across the stack — Python, JavaScript, C, C++, HTML, CSS, KSH and Django — as well as in the terminal with Linux and Bash. Currently focused on deepening my knowledge of penetration testing and expanding my security tooling, with the goal of working in offensive or defensive cybersecurity.
+I'm a Cybersecurity degree student with a genuine interest in how systems break, and how to stop them. I build practical tools to sharpen my skills, from a Python log analyser that detects suspicious login patterns and brute-force attempts, to a JavaScript grade tracker built for UK university students. I'm comfortable working across the stack. Python, JavaScript, C, C++, HTML, CSS, KSH and Django, as well as in the terminal with Linux and Bash. Currently focused on deepening my knowledge of penetration testing and expanding my security tooling, with the goal of working in offensive or defensive cybersecurity.
 
 
 ## 🌐 Socials:
